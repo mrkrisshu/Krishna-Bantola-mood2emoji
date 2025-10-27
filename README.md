@@ -1,6 +1,8 @@
 # Mood2Emoji
 
 Live:-   https://krishna-bantola-mood2emoji-sv6g3uq7daf6zbkq3yqsem.streamlit.app/#mood2-emoji
+
+
 lesson_plan(pdf) = https://drive.google.com/file/d/1lrEQHTQtCctx7G73MINX6OYZiu3a46LE/view?usp=sharing
 
 A kid-safe, minimal web app that converts a short sentence into a friendly emoji (😀 😐 😞) and a one-line explanation. Built with Python and Streamlit for classroom use. Includes a Teacher Mode to explain the simple 4-step pipeline.
